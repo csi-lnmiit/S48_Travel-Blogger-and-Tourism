@@ -25,3 +25,4 @@ also the places user can visit once he/she reach their destination.
 ➢ The web app will also provide a feature that will help them get in touch
 with the Tourist Guide in their vicinity.
 <br>
+➢ Till now, I was more focused towards learning the technology. 
